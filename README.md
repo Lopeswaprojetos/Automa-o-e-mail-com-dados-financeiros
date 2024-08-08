@@ -40,11 +40,9 @@ pip install pyautogui pyperclip yfinance
 ## Uso
 
 1. **Execute o script**:
-   
 python projetofinanca.py
 
 3. **Siga as instruções no terminal**:
-   
 Siga as instruções no terminal para inserir o código da ação.
 
 4. **Aguarde o script**:  
