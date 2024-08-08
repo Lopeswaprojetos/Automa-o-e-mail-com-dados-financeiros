@@ -40,12 +40,14 @@ pip install pyautogui pyperclip yfinance
 ## Uso
 
 1. **Execute o script**:
+   
 python projetofinanca.py
 
-2. **Siga as instruções no terminal**: 
+3. **Siga as instruções no terminal**:
+   
 Siga as instruções no terminal para inserir o código da ação.
 
-3. **Aguarde o script**:  
+4. **Aguarde o script**:  
 abrir o Gmail e enviar o e-mail automaticamente.
 
 ## Observações
