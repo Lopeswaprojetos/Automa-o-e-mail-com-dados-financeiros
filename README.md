@@ -29,7 +29,7 @@ Este projeto contém um script Python que automatiza o envio de e-mails com aná
 
 1. **Clone o repositório**:
    ```bash
-   git clone 
+   git clone https://github.com/Lopeswaprojetos/Automa-o-e-mail-com-dados-financeiros.git
 
 2. **Navegue para o diretório do projeto**:
 cd EmailAutomationWithFinance
